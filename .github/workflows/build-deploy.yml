@@ -14,7 +14,7 @@ env:
   CONTAINER_REGISTRY: handson01repo100001.azurecr.io
   # Add envs
   RESOURCE_GROUP_NAME: Handson01
-  CONTAINERAPP_NAME:  handson01ui
+  CONTAINERAPP_NAME: handson01ui
   API_BASE_URL: https://handson01api.mangotree-cc850ae9.japaneast.azurecontainerapps.io
 jobs:
   build:
